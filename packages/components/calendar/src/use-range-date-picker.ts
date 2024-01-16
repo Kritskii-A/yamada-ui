@@ -213,6 +213,7 @@ export const useRangeDatePicker = ({
       }
 
       draftValue.current = [startValue, endValue]
+
       setValue([startValue, endValue])
       setStartInputValue(inputValue)
     },
@@ -239,6 +240,7 @@ export const useRangeDatePicker = ({
       }
 
       draftValue.current = [startValue, endValue]
+
       setValue([startValue, endValue])
       setEndInputValue(inputValue)
     },
