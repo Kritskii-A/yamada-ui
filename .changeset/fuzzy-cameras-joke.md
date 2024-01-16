@@ -1,5 +1,5 @@
 ---
-"@yamada-ui/calendar": minor
+"@yamada-ui/calendar": patch
 ---
 
 The value are flushed when RangeDatePicker component Popover is closed
